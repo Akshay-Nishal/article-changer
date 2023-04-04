@@ -12,7 +12,7 @@ f1.addEventListener('click', function(){
         document.getElementById('heading').innerHTML="New analog quantum computers to solve previously unsolvable problems";
         document.getElementById('text').innerHTML="New research published in Nature Physics by collaborating scientists from Stanford University in the U.S. and University College Dublin (UCD) in Ireland has shown that a novel type of highly-specialized analog computer, whose circuits feature quantum components, can solve problems from the cutting edge of quantum physics that were previously beyond reach. When scaled up, such devices may be able to shed light on some of the most important unsolved problems in physics.";
         document.getElementById('main').style.backgroundImage="url(./b2.jpg)";
-        document.getElementById('mode').innerHTML="Next Article";
+        document.getElementById('mode').innerHTML="Previous Article";
         document.getElementById('image').src="./new-analogue-quantum-c.jpg";
         document.getElementById('article-id').innerHTML="2";
         console.log("Changed to light");
@@ -27,7 +27,7 @@ f1.addEventListener('click', function(){
         document.getElementById('heading').innerHTML="Predicting human group sizes with physics";
         document.getElementById('text').innerHTML="Only by knowing the average number of friends each person has, scientists at Complexity Science Hub (CSH) were able to predict the group sizes of people in a computer game. For this purpose, they modeled the formation of social groups on an example from physics, namely the self-organization of particles with spin.People interact with each other, and groups emerge very similar to particles that form colloids or polymers. Motivated by this, the research group developed a simple model for homophilic humans that is based on the mechanisms of self-organization of particles with spin.";
         document.getElementById('main').style.backgroundImage="url(./b1.avif)";
-        document.getElementById('mode').innerHTML="Previous Article";
+        document.getElementById('mode').innerHTML="Next Article";
         document.getElementById('image').src="./predicting-human-group.jpg";
         document.getElementById('article-id').innerHTML="1";
         document.getElementById('')
